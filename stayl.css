@@ -1,0 +1,1329 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* header section */
+.box1 {
+    background-color: brown;
+    color: white;
+    height: 30px;
+    width: 100%;
+
+}
+
+.call {
+    height: 15px;
+    width: 15px;
+    margin-top: 9px;
+    margin-left: 32px;
+    position: absolute;
+}
+
+.no {
+    margin-top: 8px;
+    margin-left: 3rem;
+    font-weight: bold;
+    position: absolute;
+}
+
+.info1{
+    margin-top: 8px;
+    margin-left: 18.3rem;
+    font-weight: bold;
+    position: absolute;
+}
+
+.fesbook {
+
+    height: 20px;
+    width: 22px;
+    margin-top: 7px;
+    margin-left: 84rem;
+    position: absolute;
+
+}
+
+.twitter {
+
+    height: 32px;
+    width: 35px;
+    margin-top: 2px;
+    margin-left: 85.5rem;
+    position: absolute;
+}
+
+.youtube {
+
+    height: 29px;
+    width: 29px;
+    margin-top: 2px;
+    margin-left: 87.9rem;
+    position: absolute;
+
+}
+
+.box2 {
+    height: 10rem;
+    width: 100%;
+    background-color: white;
+    color: white;
+}
+
+.logo {
+    height: 6rem;
+    width: 6rem;
+    margin-top: 20px;
+    margin-left: 3rem;
+    position: absolute;
+}
+
+.the {
+    color: #8A0000;
+    margin-left: 9rem;
+    margin-top: 38px;
+    font-family: "Cookie", cursive;
+    font-weight: 400;
+    font-size: 24px;
+    font-style: normal;
+    position: absolute;
+}
+
+.life {
+    margin-left: 9rem;
+    font-family: "Cookie", cursive;
+    font-weight: 400;
+    font-size: 20px;
+    font-style: normal;
+    position: absolute;
+    margin-top: 4rem;
+    color: brown;
+}
+
+.coun {
+    margin-left: 9rem;
+    margin-top: 5.3rem;
+   font-family: "Cookie", cursive;
+    font-weight: 400;
+    font-size: 20px;
+    font-style: normal;
+    color: brown;
+    position: absolute;
+
+}
+
+.cap {
+    height: 7rem;
+    width: 8rem;
+    margin-top: 21px;
+    margin-left: 61.7rem;
+    position: absolute;
+
+}
+
+.iso {
+    margin-top: 67px;
+    margin-left: 70.3rem;
+    position: absolute;
+    color: brown;
+}
+
+.box3 {
+    height: 45px;
+    width: 100%;
+    background-color: brown;
+    color: white;
+}
+
+.box3 a {
+    text-decoration: none;
+}
+
+.home {
+    margin-top: 14px;
+    margin-left: 10rem;
+    position: absolute;
+    color: white;
+    font-weight: bolder;
+}
+
+.about {
+    margin-top: 14px;
+    margin-left: 18rem;
+    position: absolute;
+    color: white;
+    font-weight: bolder;
+}
+
+.blog {
+    margin-top: 14px;
+    margin-left: 27rem;
+    position: absolute;
+    color: white;
+    font-weight: bolder;
+}
+
+.courses {
+    margin-top: 14px;
+    margin-left: 34rem;
+    position: absolute;
+    color: white;
+    font-weight: bolder;
+}
+
+.gallery {
+    margin-top: 14px;
+    margin-left: 42rem;
+    position: absolute;
+    color: white;
+    font-weight: bolder;
+}
+
+.affilation {
+    margin-top: 14px;
+    margin-left: 50rem;
+    position: absolute;
+    color: white;
+    font-weight: bolder;
+}
+
+.forum {
+    margin-top: 14px;
+    margin-left: 59rem;
+    position: absolute;
+    color: white;
+    font-weight: bolder;
+}
+
+.contact {
+
+    margin-top: 14px;
+    margin-left: 66rem;
+    position: absolute;
+    color: white;
+    font-weight: bolder;
+}
+
+.lab {
+    height: 33rem;
+    width: 100%;
+    position: absolute;
+}
+
+.box4 {
+    margin-top: 33rem;
+    height: 2rem;
+    width: 100%;
+    background-color: brown;
+
+
+}
+
+.marquee {
+    margin-top: 10px;
+    font-style: italic;
+    color: white;
+    position: absolute;
+}
+
+.box5 {
+    background-color: brown;
+    height: 29rem;
+    width: 17rem;
+    margin-top: 2rem;
+    margin-left: 3rem;
+    position: absolute;
+
+}
+
+.enquirybox {
+    height: 24rem;
+    width: 15rem;
+    background-color: gainsboro;
+    margin-top: 20px;
+    margin-left: 1rem;
+    position: absolute;
+    border-radius: 13px;
+}
+
+.Enquiry {
+    margin-top: 13px;
+    margin-left: 3rem;
+    position: absolute;
+}
+
+.name {
+    margin-top: 4rem;
+    margin-left: 10px;
+    position: absolute;
+}
+
+.name2 {
+    margin-top: 5.8rem;
+    margin-left: 13.5px;
+    height: 2.2rem;
+    width: 11rem;
+    border: 0px;
+    border-radius: 10px;
+    font-weight: bold;
+    position: absolute;
+}
+
+.lastname {
+
+    margin-top: 8.7rem;
+    margin-left: 10px;
+    position: absolute;
+}
+
+.lastname2 {
+    margin-top: 11rem;
+    margin-left: 13.5px;
+    height: 2.2rem;
+    width: 11rem;
+    border: 0px;
+    border-radius: 10px;
+    font-weight: bold;
+    position: absolute;
+}
+
+.mail {
+    margin-top: 14rem;
+    margin-left: 10px;
+    position: absolute;
+}
+
+.mail2 {
+    margin-top: 16rem;
+    margin-left: 13.5px;
+    height: 2.2rem;
+    width: 11rem;
+    border: 0px;
+    border-radius: 10px;
+    border-radius: 10px;
+    font-weight: bold;
+    position: absolute;
+}
+
+.country {
+    margin-top: 18.8rem;
+    margin-left: 10px;
+    position: absolute;
+}
+
+.india {
+    margin-top: 21rem;
+    margin-left: 13.5px;
+    height: 2.2rem;
+    width: 11rem;
+    border: 0px;
+    border-radius: 10px;
+    font-weight: bold;
+    position: absolute;
+}
+
+.checkbox {
+    margin-top: 24.3rem;
+    margin-left: 14px;
+    height: 2rem;
+    width: 1.5rem;
+    border: 0px;
+    position: absolute;
+}
+
+.submit {
+    margin-top: 24.5rem;
+    margin-left: 4rem;
+    height: 2.4rem;
+    font-size: 16px;
+    width: 5rem;
+    border: 0px;
+    border-radius: 9px;
+    background-color: gainsboro;
+    color: black;
+    font-weight: bolder;
+    position: absolute;
+}
+
+.box6 {
+    height: 33rem;
+    width: 48rem;
+    background-color: white;
+    margin-top: 30px;
+    margin-left: 21rem;
+    position: absolute;
+}
+
+.welcome {
+    margin-top: 3px;
+    margin-left: 63px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 70;
+    font-style: normal;
+    font-size: 24px;
+    position: absolute;
+}
+
+.welcometo {
+    margin-top: 3.5rem;
+    margin-left: 1.5rem;
+    font-weight: initial;
+    line-height: 28px;
+    font-size: 19px;
+    position: absolute;
+}
+
+.readmore {
+    text-decoration: none;
+}
+
+.readmore {
+    margin-top: 14rem;
+    margin-left: 20rem;
+    font-weight: bold;
+    color: rgb(83, 83, 216);
+    position: absolute;
+}
+
+.hr1 {
+    margin-top: 16rem;
+    position: absolute;
+    color: black;
+    width: 38rem;
+    margin-left: 4rem;
+}
+
+.hand1 {
+    margin-top: 18rem;
+    margin-left: 1rem;
+    height: 3rem;
+    width: 3rem;
+    position: absolute;
+}
+
+.secondary {
+    margin-top: 19rem;
+    margin-left: 4.5rem;
+    font-weight: bold;
+    font-size: 18px;
+    color: rgb(112, 112, 233);
+    position: absolute;
+    text-decoration: none;
+}
+
+.hand2 {
+    margin-top: 22rem;
+    margin-left: 1rem;
+    height: 3rem;
+    width: 3rem;
+    position: absolute;
+}
+
+.skill {
+    margin-top: 23rem;
+    margin-left: 4.5rem;
+    font-weight: bold;
+    font-size: 18px;
+    color: rgb(112, 112, 233);
+    position: absolute;
+    text-decoration: none;
+}
+
+.hand3 {
+    margin-top: 18rem;
+    margin-left: 19rem;
+    height: 3rem;
+    width: 3rem;
+    position: absolute;
+}
+
+.senoir {
+    margin-top: 19rem;
+    margin-left: 22.5rem;
+    font-weight: bold;
+    font-size: 18px;
+    color: rgb(112, 112, 233);
+    position: absolute;
+    text-decoration: none;
+}
+
+.hand4 {
+    margin-top: 22rem;
+    margin-left: 19rem;
+    height: 3rem;
+    width: 3rem;
+    position: absolute;
+}
+
+.bosse {
+    margin-top: 23rem;
+    margin-left: 22.5rem;
+    font-weight: bold;
+    font-size: 17px;
+    color: rgb(112, 112, 233);
+    position: absolute;
+    text-decoration: none;
+}
+
+.box7 {
+    background-color: whitesmoke;
+    margin-top: 7rem;
+    margin-left: 72rem;
+    height: 18.3rem;
+    width: 11.5rem;
+
+}
+
+.box0 {
+    margin-top: 12px;
+    margin-left: 12px;
+    height: 2rem;
+    width: 10rem;
+    background-color: brown;
+    border-radius: 5px;
+    position: absolute;
+
+}
+
+.quick {
+    margin-top: 7px;
+    margin-left: 2rem;
+    font-weight: bolder;
+    color: white;
+}
+
+.box00 {
+    margin-top: 3.7rem;
+    margin-left: 21px;
+    height: 2rem;
+    width: 9rem;
+    background-color: brown;
+    border-radius: 7px;
+    position: absolute;
+}
+
+.pdf {
+    height: 20px;
+    width: 22px;
+    margin-top: 5px;
+    margin-right: 10px;
+    position: absolute;
+}
+
+.admit2 {
+    margin-top: 7px;
+    margin-left: 2rem;
+    font-weight: bold;
+    color: white;
+}
+
+.box000 {
+    margin-top: 6rem;
+    margin-left: 21px;
+    height: 2rem;
+    width: 9rem;
+    background-color: brown;
+    border-radius: 7px;
+    position: absolute;
+}
+
+.pdf2 {
+    height: 20px;
+    width: 22px;
+    margin-top: 5px;
+    margin-right: 10px;
+    position: absolute;
+}
+
+.enroll {
+    margin-top: 7px;
+    margin-left: 2rem;
+    font-weight: bold;
+    color: white;
+}
+
+.box0000 {
+    margin-top: 8.3rem;
+    margin-left: 21px;
+    height: 2rem;
+    width: 9rem;
+    background-color: brown;
+    border-radius: 7px;
+    position: absolute;
+}
+
+.mark {
+    height: 20px;
+    width: 22px;
+    margin-top: 5px;
+    margin-right: 10px;
+    position: absolute;
+}
+
+.Q {
+    margin-top: 7px;
+    margin-left: 2rem;
+    font-weight: bold;
+    color: white;
+}
+
+.box00000 {
+    margin-top: 10.6rem;
+    margin-left: 21px;
+    height: 2rem;
+    width: 9rem;
+    background-color: brown;
+    border-radius: 7px;
+    position: absolute;
+}
+
+.book {
+    height: 20px;
+    width: 22px;
+    margin-top: 5px;
+    margin-right: 10px;
+    position: absolute
+}
+
+.study {
+    margin-top: 7px;
+    margin-left: 2rem;
+    font-weight: bold;
+    color: white;
+}
+
+.box000000 {
+    margin-top: 13rem;
+    margin-left: 21px;
+    height: 2rem;
+    width: 9rem;
+    background-color:brown;
+    border-radius: 7px;
+    position: absolute;
+}
+
+.donwloadpng {
+    height: 20px;
+    width: 22px;
+    margin-top: 5px;
+    margin-right: 10px;
+    position: absolute
+}
+
+.donwload {
+    margin-top: 7px;
+    margin-left: 2rem;
+    font-weight: bold;
+    color: white;
+}
+
+.box0000000 {
+    margin-top: 15.3rem;
+    margin-left: 21px;
+    height: 2rem;
+    width: 9rem;
+    background-color:brown;
+    border-radius: 7px;
+    position: absolute;
+}
+
+.newspng {
+    height: 20px;
+    width: 22px;
+    margin-top: 5px;
+    margin-right: 10px;
+    position: absolute
+}
+
+.news {
+    margin-top: 7px;
+    margin-left: 2rem;
+    font-weight: bold;
+    color: white;
+    position: absolute;
+}
+
+.box8 {
+    background-color: whitesmoke;
+    margin-top: 9rem;
+    height: 25rem;
+    width: 100%;
+    color: black;
+    border: solid brown;
+    position: absolute;
+
+}
+
+.our {
+    margin-left: 41rem;
+    color: black;
+    margin-top: 20px;
+    font-weight: 600;
+    position: absolute
+}
+
+.secondary2 {
+    margin-top: 13rem;
+    margin-left: 17rem;
+    position: absolute;
+}
+
+.p1 {
+    margin-top: 15.4rem;
+    margin-left: 12rem;
+    position: absolute;
+}
+
+.senior {
+    margin-top: 13rem;
+    margin-left: 44rem;
+    position: absolute;
+}
+
+.p2 {
+    margin-top: 15rem;
+    margin-left: 40rem;
+    position: absolute;
+
+}
+
+.voca {
+    margin-top: 13rem;
+    margin-left: 71rem;
+    position: absolute;
+}
+
+.p3 {
+    margin-top: 15rem;
+    margin-left: 68rem;
+    position: absolute;
+
+}
+
+.cap2 {
+    height: 6rem;
+    width: 6rem;
+    margin-top: 7rem;
+    margin-left: 17.5rem;
+}
+
+.cap3 {
+    height: 6rem;
+    width: 6rem;
+    margin-top: 7rem;
+    margin-left: 22rem;
+}
+
+.cap4 {
+    height: 6rem;
+    width: 6rem;
+    margin-top: 7rem;
+    margin-left: 19.5rem;
+    position: absolute;
+}
+
+.box9 {
+    background-color: white;
+    height: 32rem;
+    width: 100%;
+    margin-top: 34rem;
+    position: absolute;
+}
+
+.open {
+    margin-top: 28px;
+    margin-left: 42rem;
+    color: rgb(59, 11, 21);
+    position: absolute;
+}
+
+.p4 {
+    margin-top: 5rem;
+    margin-left: 22rem;
+    text-align: center;
+    position: absolute;
+}
+
+.p5 {
+    margin-top: 6rem;
+    margin-left: 25rem;
+    position: absolute;
+}
+
+.frem1 {
+    height: 10rem;
+    width: 10rem;
+    margin-top: 13rem;
+    margin-left: 17rem;
+    border-radius: 20px;
+    background-color:  rgb(161, 64, 64);
+    color: white;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    position: absolute;
+}
+
+.block1 {
+    margin-top: 12px;
+    margin-left: 39px;
+    position: absolute;
+
+}
+
+.from {
+    margin-top: 34px;
+    margin-left: 68px;
+    position: absolute;
+
+}
+
+.p5 {
+    margin-top: 47px;
+    margin-left: 12px;
+    position: absolute;
+}
+
+.p6 {
+    margin-top: 76px;
+    margin-left: 0px;
+    text-align: center;
+}
+
+.frem2 {
+    height: 10rem;
+    width: 10rem;
+    margin-top: 13rem;
+    margin-left: 70rem;
+    border-radius: 20px;
+    background-color: rgb(161, 64, 64);
+    color: white;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    position: absolute;
+}
+
+.block2 {
+    margin-top: 12px;
+    margin-left: 39px;
+    position: absolute;
+}
+
+.from2 {
+    margin-top: 34px;
+    margin-left: 68px;
+    position: absolute;
+
+}
+
+.p7 {
+    margin-top: 47px;
+    margin-left: 12px;
+    position: absolute;
+}
+
+.p8 {
+    margin-top: 76px;
+    margin-left: 0px;
+    text-align: center;
+
+}
+
+.p9 {
+    margin-top: 26rem;
+    margin-left: 21rem;
+    text-align: center;
+    position: absolute;
+
+}
+
+.read2 {
+    text-decoration: none;
+}
+
+.read2 {
+    margin-top: 29rem;
+    margin-left: 45rem;
+    color: rgb(79, 79, 214);
+    font-weight: bolder;
+    position: absolute;
+}
+
+.box10 {
+    background-color: whitesmoke;
+    height: 23rem;
+    width: 100%;
+    margin-top: 66.4rem;
+    border: solid brown;
+    position: absolute;
+}
+
+.equiva {
+    margin-top: 20px;
+    margin-left: 34rem;
+    font-style: italic;
+    font-weight: 400;
+    color:black;
+    position: absolute;
+}
+
+.eh1 {
+    width: 33rem;
+    margin-left: 33rem;
+    margin-top: 3.8rem;
+    position: absolute;
+}
+
+.hand5 {
+    height: 4rem;
+    width: 4rem;
+    margin-top: 7rem;
+    margin-left: 23rem;
+    position: absolute;
+}
+
+.p10 {
+    margin-top: 8.5rem;
+    margin-left: 28rem;
+    position: absolute;
+}
+
+.hand6 {
+    height: 4rem;
+    width: 4rem;
+    margin-top: 12rem;
+    margin-left: 23rem;
+    position: absolute;
+}
+
+.p11 {
+    margin-top: 13.5rem;
+    margin-left: 28rem;
+    position: absolute;
+}
+
+.hand7 {
+    height: 4rem;
+    width: 4rem;
+    margin-top: 17rem;
+    margin-left: 23rem;
+    position: absolute;
+}
+
+.p12 {
+    margin-top: 18.5rem;
+    margin-left: 28rem;
+    position: absolute;
+}
+
+.read3 {
+    text-decoration: none;
+}
+
+.read3 {
+    color: rgb(86, 86, 230);
+    margin-top: 20.5rem;
+    margin-left: 48rem;
+    font-weight: bolder;
+    position: absolute;
+}
+
+.box11 {
+    background-color: brown;
+    height: 24rem;
+    width: 100%;
+    margin-top: 93rem;
+    position: absolute;
+
+}
+
+.get {
+    margin-top: 27px;
+    margin-left: 157px;
+    color: white;
+    font-weight: 600;
+    position: absolute;
+}
+
+.news2 {
+    height: 20px;
+    width: 22px;
+    margin-top: 4.5rem;
+    margin-left: 6rem;
+    position: absolute;
+
+}
+
+.board {
+    text-decoration: none;
+}
+
+.board {
+    margin-left: 8rem;
+    margin-top: 72.5px;
+    color: white;
+    position: absolute;
+}
+
+.home {
+    height: 18px;
+    width: 19px;
+    margin-top: 7.6rem;
+    margin-left: 6rem;
+    position: absolute;
+}
+
+.amdo {
+    text-decoration: none;
+}
+
+.amdo {
+    margin-left: 8rem;
+    margin-top: 7.6rem;
+    color: white;
+    position: absolute;
+}
+
+.tag2 {
+    height: 24px;
+    width: 28px;
+    margin-top: 10.5rem;
+    margin-left: 5.8rem;
+    position: absolute;
+}
+
+.info {
+    text-decoration: none;
+}
+
+.info {
+    margin-left: 8rem;
+    margin-top: 10.5rem;
+    color: white;
+    position: absolute;
+}
+
+.call2 {
+    height: 20px;
+    width: 21px;
+    margin-top: 12.7rem;
+    margin-left: 6.1rem;
+    position: absolute;
+}
+
+.no2 {
+    text-decoration: none;
+}
+
+.no2 {
+    margin-left: 8rem;
+    margin-top: 12.8rem;
+    color: white;
+    position: absolute;
+}
+
+.mobile {
+    height: 24px;
+    width: 28px;
+    margin-top: 14.9rem;
+    margin-left: 5.8rem;
+    position: absolute;
+}
+
+.no3 {
+    text-decoration: none;
+}
+
+.no3 {
+    margin-left: 8rem;
+    margin-top: 15rem;
+    color: white;
+    position: absolute;
+}
+
+.world {
+    height: 24px;
+    width: 28px;
+    margin-top: 17.2rem;
+    margin-left: 5.8rem;
+    position: absolute;
+}
+
+.www {
+    text-decoration: none;
+}
+
+.www {
+    margin-left: 8rem;
+    margin-top: 17.2rem;
+    color: white;
+    position: absolute;
+}
+
+.app {
+    height: 2.5rem;
+    width: 15rem;
+    margin-top: 19.5rem;
+    margin-left: 5rem;
+    position: absolute;
+}
+
+.fesbook2 {
+    height: 41px;
+    width: 42px;
+    margin-left: 5.8px;
+    position: absolute;
+}
+
+.insta2 {
+    height: 32px;
+    width: 33px;
+    margin-top: 4px;
+    margin-left: 49.8px;
+    position: absolute;
+}
+
+.twitter2 {
+    height: 42px;
+    width: 42px;
+    margin-top: 0px;
+    margin-left: 85.8px;
+    position: absolute;
+}
+
+.you2 {
+    height: 38px;
+    width: 40px;
+    margin-top: 2px;
+    margin-left: 131.8px;
+    position: absolute
+}
+
+.in2 {
+    height: 28px;
+    width: 41px;
+    margin-top: 7px;
+    margin-left: 179.8px;
+    position: absolute;
+
+}
+
+.link {
+    margin-left: 35rem;
+    color: white;
+    margin-top: 26px;
+    font-weight: 600;
+    position: absolute;
+}
+
+.box12 {
+    height: 21rem;
+    width: 13rem;
+    margin-top: 67px;
+    margin-left: 33rem;
+    position: absolute;
+
+}
+
+.a1 {
+    text-decoration: none;
+}
+
+.a1 {
+    margin-top: 5px;
+    margin-left: 34px;
+    color: white;
+    position: absolute;
+}
+
+.a2 {
+    text-decoration: none;
+}
+
+.a2 {
+    margin-top: 10px;
+    margin-left: 34px;
+    color: white;
+    position: absolute;
+}
+
+.a3 {
+    text-decoration: none;
+}
+
+.a3 {
+    margin-top: 18px;
+    margin-left: 34px;
+    color: white;
+    position: absolute;
+}
+
+.a4 {
+    text-decoration: none;
+}
+
+.a4 {
+    margin-top: 29px;
+    margin-left: 34px;
+    color: white;
+    position: absolute;
+}
+
+.a5 {
+    text-decoration: none;
+}
+
+.a5 {
+    margin-top: 41px;
+    margin-left: 34px;
+    color: white;
+    position: absolute;
+}
+
+.a6 {
+    text-decoration: none;
+}
+
+.a6 {
+    margin-top: 51px;
+    margin-left: 34px;
+    color: white;
+    position: absolute;
+}
+
+.a7 {
+    text-decoration: none;
+}
+
+.a7 {
+    margin-top: 63px;
+    margin-left: 34px;
+    color: white;
+    position: absolute;
+}
+
+.a8 {
+    text-decoration: none;
+}
+
+.a8 {
+    margin-top: 79px;
+    margin-left: 34px;
+    color: white;
+    position: absolute;
+}
+
+.a9 {
+    text-decoration: none;
+}
+
+.a9 {
+    margin-top: 94px;
+    margin-left: 34px;
+    color: white;
+    position: absolute;
+}
+
+.a10 {
+    text-decoration: none;
+}
+
+.a10 {
+    margin-top: 105px;
+    margin-left: 34px;
+    color: white;
+    position: absolute;
+}
+
+.our2 {
+    margin-left: 55rem;
+    color: white;
+    margin-top: 26px;
+    font-weight: 600;
+    position: absolute;
+}
+
+.box13 {
+    height: 21rem;
+    width: 13rem;
+    margin-top: 72px;
+    margin-left: 55rem;
+}
+
+.b1 {
+    text-decoration: none;
+}
+
+.b1 {
+    margin-top: 5px;
+    margin-left: 2px;
+    color: white;
+    font-size: 17px;
+    position: absolute;
+}
+
+.b2 {
+    text-decoration: none;
+}
+
+.b2 {
+    margin-top: 16px;
+    margin-left: 2px;
+    color: white;
+    font-size: 17px;
+    position: absolute;
+}
+
+.b3 {
+    text-decoration: none;
+}
+
+.b3 {
+    margin-top: 24px;
+    margin-left: 2px;
+    color: white;
+    font-size: 17px;
+    position: absolute;
+}
+
+.b4 {
+    text-decoration: none;
+}
+
+.b4 {
+    margin-top: 32px;
+    margin-left: 2px;
+    color: white;
+    font-size: 17px;
+    position: absolute;
+}
+
+.b5 {
+    text-decoration: none;
+}
+
+.b5 {
+    margin-top: 42px;
+    margin-left: 2px;
+    color: white;
+    font-size: 17px;
+    position: absolute;
+}
+
+.b6 {
+    text-decoration: none;
+}
+
+.b6 {
+    margin-top: 52px;
+    margin-left: 2px;
+    color: white;
+    font-size: 17px;
+    position: absolute;
+}
+
+.kaif {
+    margin-top: 10rem;
+    margin-left: 8rem;
+    height: 15px;
+    width: 15px;
+    position: absolute;
+}
